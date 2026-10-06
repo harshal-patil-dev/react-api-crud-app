@@ -1,0 +1,17 @@
+{
+  "employees": [
+    {
+      "name": "Jane Smith",
+      "role": "Project Manager",
+      "salary": "67890",
+      "id": "Y2KXo7_bS_g"
+    },
+    {
+      "name": "Emily Johnson",
+      "role": "UX Designer",
+      "salary": "54321",
+      "id": "vPc3_FffxR8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
